@@ -1,0 +1,7 @@
+---
+
+name: JupyterHub
+description: |
+  (Experimental) Multi-user server for Jupyter notebooks
+version: 0.7.2
+category: Applications
